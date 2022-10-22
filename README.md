@@ -1,0 +1,2 @@
+# fastapi
+miscellaneous fastapi codes
